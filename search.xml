@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Try</title>
-    <url>/2024/08/26/Try/</url>
-    <content><![CDATA[<h2 id="Try-a-new-post"><a href="#Try-a-new-post" class="headerlink" title="Try a new post"></a>Try a new post</h2><h3 id="中文子標題"><a href="#中文子標題" class="headerlink" title="中文子標題"></a>中文子標題</h3><span id="more"></span>
-<ul>
-<li>這是一串中文字</li>
-</ul>
-]]></content>
-  </entry>
-  <entry>
     <title>Intro</title>
     <url>/2024/08/25/Intro/</url>
     <content><![CDATA[<p>This is an intro.</p>
@@ -18,6 +9,9 @@
 <li>hello world</li>
 </ul>
 ]]></content>
+      <tags>
+        <tag>tester</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -37,6 +31,30 @@
 
 <p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 ]]></content>
+      <categories>
+        <category>hex</category>
+      </categories>
+      <tags>
+        <tag>doc</tag>
+        <tag>off</tag>
+        <tag>3rd_tag</tag>
+        <tag>4th_tag</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Try</title>
+    <url>/2024/08/26/Try/</url>
+    <content><![CDATA[<h2 id="Try-a-new-post"><a href="#Try-a-new-post" class="headerlink" title="Try a new post"></a>Try a new post</h2><h3 id="中文子標題"><a href="#中文子標題" class="headerlink" title="中文子標題"></a>中文子標題</h3><span id="more"></span>
+<ul>
+<li>這是一串中文字</li>
+</ul>
+]]></content>
+      <categories>
+        <category>hex</category>
+      </categories>
+      <tags>
+        <tag>tester</tag>
+      </tags>
   </entry>
   <entry>
     <title>post1</title>
@@ -46,5 +64,8 @@
 <li>hello</li>
 </ul>
 ]]></content>
+      <tags>
+        <tag>hello world</tag>
+      </tags>
   </entry>
 </search>
