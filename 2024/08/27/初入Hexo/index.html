@@ -31,8 +31,13 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://dennislee03.github.io/images/init-hexo/cmd.png">
 <meta property="og:image" content="https://dennislee03.github.io/images/init-hexo/cmd2.png">
+<meta property="og:image" content="https://dennislee03.github.io/images/init-hexo/theme.png">
+<meta property="og:image" content="https://dennislee03.github.io/images/init-hexo/hub1.png">
+<meta property="og:image" content="https://dennislee03.github.io/images/init-hexo/hub2.png">
+<meta property="og:image" content="https://dennislee03.github.io/images/init-hexo/hub3.png">
+<meta property="og:image" content="https://dennislee03.github.io/images/init-hexo/dply1.png">
 <meta property="article:published_time" content="2024-08-27T15:55:26.000Z">
-<meta property="article:modified_time" content="2024-08-28T17:41:34.374Z">
+<meta property="article:modified_time" content="2024-08-29T17:11:59.518Z">
 <meta property="article:author" content="Dennis Lee">
 <meta property="article:tag" content="tools">
 <meta property="article:tag" content="Hexo">
@@ -593,8 +598,8 @@
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-08-29 01:41:34</span>
-            <span class="mobile">2024-08-29 01:41:34</span>
+            <span class="desktop">2024-08-30 01:11:59</span>
+            <span class="mobile">2024-08-30 01:11:59</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -708,21 +713,100 @@
 <li>安裝必要的檔案<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure></div></li>
 <li>安裝完成後就是: 網頁~啟動~<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure></div></li>
 </ol>
-<h3 id="三-Blog專案結構說明"><a href="#三-Blog專案結構說明" class="headerlink" title="(三) Blog專案結構說明"></a>(三) Blog專案結構說明</h3><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">MyBlog/</span><br><span class="line">    ├── _config.yml</span><br><span class="line">    ├── package.json</span><br><span class="line">    ├── scaffolds</span><br><span class="line">    ├── source</span><br><span class="line">    |   └── _posts</span><br><span class="line">    └── themes</span><br></pre></td></tr></table></figure></div>
-<p>這邊只說明很重要ㄉ</p>
+<h3 id="三-專案結構基本說明"><a href="#三-專案結構基本說明" class="headerlink" title="(三) 專案結構基本說明"></a>(三) 專案結構基本說明</h3><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">MyBlog/</span><br><span class="line">    ├── node_modules</span><br><span class="line">    ├── public</span><br><span class="line">    ├── scaffolds</span><br><span class="line">    ├── source</span><br><span class="line">    |   └── _posts</span><br><span class="line">    |── themes</span><br><span class="line">    ├── _config.yml</span><br><span class="line">    └── package.json</span><br></pre></td></tr></table></figure></div>
+<p><em>只提及接下來會運用到的檔案或目錄</em></p>
 <ol>
-<li><em><strong>_config.yml</strong></em> : 這邊很重要!!!主要就是調整此檔案去客製化你的網站。</li>
-<li><em>source</em> : 網站的資源都是放在這邊，圖片、文章(放在_post下)等。</li>
-<li><em>themes</em>: 放置你所下載的主題檔案</li>
+<li><em>_config.yml</em> : 用來配置你的blog，看看註解就能略知一二</li>
+<li><em>source</em> : 網站的原始內容放在這邊，圖片、PDF檔、文章等。</li>
+<li><em>themes</em> : 放置你所下載的主題</li>
+<li><em>public</em> : 產生的靜態檔案會放在這裡</li>
 </ol>
-<h3 id="四-設定Blog主題"><a href="#四-設定Blog主題" class="headerlink" title="(四) 設定Blog主題"></a>(四) 設定Blog主題</h3><h3 id="五-你可能會遇到的問題"><a href="#五-你可能會遇到的問題" class="headerlink" title="(五) 你可能會遇到的問題"></a>(五) 你可能會遇到的問題</h3><ul>
-<li>當執行完以下指令後<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo init MyBlog</span><br><span class="line"><span class="built_in">cd</span> MyBlog</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure></div></li>
+<h3 id="四-設定Blog主題"><a href="#四-設定Blog主題" class="headerlink" title="(四) 設定Blog主題"></a>(四) 設定Blog主題</h3><h4 id="如何下載心儀的主題"><a href="#如何下載心儀的主題" class="headerlink" title="如何下載心儀的主題?"></a>如何下載心儀的主題?</h4><ol>
+<li>首先在<a class="link"   target="_blank" rel="noopener" href="https://hexo.io/themes/" >Themes|Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>選擇你喜歡的樣式</li>
+<li>接著點進該主題的Github，基本上都有配置文件，照著文件說明去安裝即可<ul>
+<li>其實就是<em>git clone</em>而已</li>
 </ul>
-<h3 id="六-部署到Github"><a href="#六-部署到Github" class="headerlink" title="(六) 部署到Github"></a>(六) 部署到Github</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure></div>
-
+</li>
+<li>下載完成後你就會看到<em>themes</em>就有該主題的資料夾了</li>
+</ol>
+<h4 id="調整主題所提供的項目"><a href="#調整主題所提供的項目" class="headerlink" title="調整主題所提供的項目"></a>調整主題所提供的項目</h4><p>接下來以<strong>YourTheme</strong>代稱你所選擇的主題，以便簡化說明</p>
+<ol>
+<li>首先調整 <strong>_config.yml</strong> 之中的theme，將冒號右側改成你要的主題<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/init-hexo/theme.png"
+                     
+                ></li>
+<li>打開 <strong>yourtheme</strong> 的資料夾</li>
+<li>複製其中的 <strong>_config.yml</strong> 的所有代碼</li>
+<li>在MyBlog之下新增 <strong>_config.yourtheme.yml</strong> 並且把你複製的代碼貼到此檔案之中</li>
+<li>之後就是看官方文件以及不斷微調 <strong>_config.yourtheme.yml</strong> 其中的內容</li>
+<li>由於不同主題的config會不同，效果也不同，接下來就不細說，建議直接看主題的官方文件，應該都很詳細。你會越來越了解config怎麼調整ㄉ</li>
+<li>編輯 <strong>_config.yourtheme.yml</strong> 的過程中，請時時使用 <em>hexo server</em> 查看效果如何，記得不要一次改太多喔!</li>
+</ol>
+<h3 id="五-Hexo基本操作"><a href="#五-Hexo基本操作" class="headerlink" title="(五) Hexo基本操作"></a>(五) Hexo基本操作</h3><ul>
+<li>初始化一個專案，&lt;your_project_name&gt;換成你喜歡的名字<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init &lt;your_project_name&gt;</span><br></pre></td></tr></table></figure></div></li>
+<li>產生靜態網頁檔案，放在 <strong>public</strong> 裡面<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure></div></li>
+<li>在local端啟動網頁，讓你可以查看網頁目前的模樣<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure></div></li>
+<li>刪除 <strong>public</strong> 以便後續更新網頁並重新生成、部署網頁<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br></pre></td></tr></table></figure></div></li>
+<li>將靜態檔案部署到你指定的repository中<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure></div></li>
+<li>產生一則新的貼文， <strong>your_post_name</strong> 換成你要發的文章名<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new <span class="string">&quot;your_post_name&quot;</span></span><br></pre></td></tr></table></figure></div></li>
+<li>產生一個新的頁面， <strong>your_page_name</strong> 換成你指定的頁面名稱<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new page <span class="string">&quot;your_page_name&quot;</span></span><br></pre></td></tr></table></figure></div></li>
+</ul>
+<h3 id="六-部署到Github"><a href="#六-部署到Github" class="headerlink" title="(六) 部署到Github"></a>(六) 部署到Github</h3><ol>
+<li>註冊一個Github帳號</li>
+<li>創建一個新的repository為public，並且命名為 <strong>username.github.io</strong> ，username換成你的用戶名稱</li>
+<li>進入Settings裡面的Pages<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/init-hexo/hub1.png"
+                     
+                ></li>
+<li>把Source設成如圖<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/init-hexo/hub2.png"
+                     
+                ></li>
+<li>把Branch設成如圖<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/init-hexo/hub3.png"
+                     
+                ></li>
+<li>回到你的專案中，並進入專案的 <strong>_config.yml</strong> 編輯 <strong>deployment</strong> 處，寫成如圖的樣子<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/init-hexo/dply1.png"
+                     
+                ></li>
+<li>當你想要部署你的blog時，請按照順序執行如下指令<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure></div></li>
+<li>接著可以去你的repository查看上傳&#x2F;更新</li>
+<li>在Github幫你處理repository並且完成網頁渲染後，這時就可以在輸入網址 <strong>username.github.io</strong> 查看部署在此網域的網站了，其他人輸入網址也會看的到了喔</li>
+</ol>
+<h3 id="七-你可能會有的問題"><a href="#七-你可能會有的問題" class="headerlink" title="(七) 你可能會有的問題"></a>(七) 你可能會有的問題</h3><ol>
+<li>你可能會看到這個error: <em>ERROR Plugin load failed: hexo-site</em></li>
+</ol>
+<ul>
+<li>只要把 <strong>node_modules</strong> 之下的 <strong>hexo-site</strong> 刪除即可，就不會有錯誤訊息了<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">INFO  Validating config</span><br><span class="line">ERROR Plugin load failed: hexo-site</span><br><span class="line">Error: EISDIR: illegal operation on a directory, readat async readFileHandle (node:internal/fs/promises:553:24)</span><br></pre></td></tr></table></figure></div></li>
+</ul>
+<ol start="2">
+<li>為甚麼不直接調整yourtheme之下的_config.yml呢?</li>
+</ol>
+<ul>
+<li>為了避免更新主題後，客製的項目被覆蓋掉回到預設值</li>
+<li>至於命名一定要是那樣，這樣才能被hexo專案找到</li>
+</ul>
+<ol start="3">
+<li>在調整主題的config時，會看到 <em>fa-solid fa-face-smile</em> ，這啥呢?</li>
+</ol>
+<ul>
+<li>這是在引用Font Awesome圖示庫裡面的CSS樣式</li>
+<li><em>fa</em> 就是Font Awesome， <em>solid</em> 是風格， <em>face-smile</em> 是笑臉</li>
+</ul>
 <h3 id="Resources"><a href="#Resources" class="headerlink" title="Resources"></a>Resources</h3><ul>
-<li><a class="link"   target="_blank" rel="noopener" href="https://favicon.io/" >favicon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   target="_blank" rel="noopener" href="https://fontawesome.com/" >Font Awesome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   target="_blank" rel="noopener" href="https://favicon.io/" >favicon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>: 將圖片轉換成icon</li>
+<li><a class="link"   target="_blank" rel="noopener" href="https://fontawesome.com/" >Font Awesome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>: 圖示庫</li>
 </ul>
 <h3 id="References"><a href="#References" class="headerlink" title="References"></a>References</h3><ul>
 <li><a class="link"   target="_blank" rel="noopener" href="https://hexo.io/docs/" >Hexo Docs <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
@@ -743,7 +827,7 @@
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-08-29 01:41:34
+                    :</strong> 2024-08-30 01:11:59
             </li>
         
         <li>
@@ -813,7 +897,7 @@
     <div class="post-toc">
         <div class="toc-title">On this page</div>
         <div class="page-title">初入Hexo</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%89%8D%E8%A8%80"><span class="nav-text">前言</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%82%BA%E7%94%9A%E9%BA%BC%E9%81%B8%E6%93%87Hexo"><span class="nav-text">為甚麼選擇Hexo</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Hexo%E7%B0%A1%E4%BB%8B"><span class="nav-text">Hexo簡介</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Hexo%E9%96%8B%E7%99%BC"><span class="nav-text">Hexo開發</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80-%E6%BA%96%E5%82%99%E9%96%8B%E7%99%BCHexo%E7%92%B0%E5%A2%83"><span class="nav-text">(一) 準備開發Hexo環境</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%AE%89%E8%A3%9D%E6%89%80%E9%9C%80%E7%9A%84%E8%BB%9F%E9%AB%94"><span class="nav-text">安裝所需的軟體</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%BB%BA%E7%BD%AE%E7%92%B0%E5%A2%83"><span class="nav-text">建置環境</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%8C-Quick-Start"><span class="nav-text">(二) Quick Start</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%89-Blog%E5%B0%88%E6%A1%88%E7%B5%90%E6%A7%8B%E8%AA%AA%E6%98%8E"><span class="nav-text">(三) Blog專案結構說明</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9B%9B-%E8%A8%AD%E5%AE%9ABlog%E4%B8%BB%E9%A1%8C"><span class="nav-text">(四) 設定Blog主題</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%94-%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%9C%83%E9%81%87%E5%88%B0%E7%9A%84%E5%95%8F%E9%A1%8C"><span class="nav-text">(五) 你可能會遇到的問題</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%85%AD-%E9%83%A8%E7%BD%B2%E5%88%B0Github"><span class="nav-text">(六) 部署到Github</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Resources"><span class="nav-text">Resources</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#References"><span class="nav-text">References</span></a></li></ol></li></ol>
+        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%89%8D%E8%A8%80"><span class="nav-text">前言</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%82%BA%E7%94%9A%E9%BA%BC%E9%81%B8%E6%93%87Hexo"><span class="nav-text">為甚麼選擇Hexo</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Hexo%E7%B0%A1%E4%BB%8B"><span class="nav-text">Hexo簡介</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Hexo%E9%96%8B%E7%99%BC"><span class="nav-text">Hexo開發</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80-%E6%BA%96%E5%82%99%E9%96%8B%E7%99%BCHexo%E7%92%B0%E5%A2%83"><span class="nav-text">(一) 準備開發Hexo環境</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%AE%89%E8%A3%9D%E6%89%80%E9%9C%80%E7%9A%84%E8%BB%9F%E9%AB%94"><span class="nav-text">安裝所需的軟體</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%BB%BA%E7%BD%AE%E7%92%B0%E5%A2%83"><span class="nav-text">建置環境</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%8C-Quick-Start"><span class="nav-text">(二) Quick Start</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%89-%E5%B0%88%E6%A1%88%E7%B5%90%E6%A7%8B%E5%9F%BA%E6%9C%AC%E8%AA%AA%E6%98%8E"><span class="nav-text">(三) 專案結構基本說明</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9B%9B-%E8%A8%AD%E5%AE%9ABlog%E4%B8%BB%E9%A1%8C"><span class="nav-text">(四) 設定Blog主題</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BC%89%E5%BF%83%E5%84%80%E7%9A%84%E4%B8%BB%E9%A1%8C"><span class="nav-text">如何下載心儀的主題?</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E8%AA%BF%E6%95%B4%E4%B8%BB%E9%A1%8C%E6%89%80%E6%8F%90%E4%BE%9B%E7%9A%84%E9%A0%85%E7%9B%AE"><span class="nav-text">調整主題所提供的項目</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%94-Hexo%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C"><span class="nav-text">(五) Hexo基本操作</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%85%AD-%E9%83%A8%E7%BD%B2%E5%88%B0Github"><span class="nav-text">(六) 部署到Github</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%83-%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%9C%83%E6%9C%89%E7%9A%84%E5%95%8F%E9%A1%8C"><span class="nav-text">(七) 你可能會有的問題</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Resources"><span class="nav-text">Resources</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#References"><span class="nav-text">References</span></a></li></ol></li></ol>
 
     </div>
 </div>
