@@ -6,10 +6,10 @@
     <content><![CDATA[<h2 id="我認為最好的學習方法"><a href="#我認為最好的學習方法" class="headerlink" title="我認為最好的學習方法"></a>我認為最好的學習方法</h2><p>對於我來說，最有效的學習方法就是「試著表達剛學過的東西」，一方面能加深記憶，一方面能找找自己是否有明顯的盲點，這樣讓我能在第一步的學習中解決更多問題。</p>
 <span id="more"></span>
 
-<h2 id="我喜歡紀錄生活的過程"><a href="#我喜歡紀錄生活的過程" class="headerlink" title="我喜歡紀錄生活的過程"></a>我喜歡紀錄生活的過程</h2><p>生活中有很多事情等著我們去挖掘與嘗試，過程中會產生種種情緒，這些情感對我而言很珍貴，所以我想將其記錄下來，不僅可以更加瞭解自己，日後回顧也能透過blog的紀錄去回味那些生活中的酸甜苦辣。</p>
-<h2 id="Blog有很多種"><a href="#Blog有很多種" class="headerlink" title="Blog有很多種"></a>Blog有很多種</h2><p>網路上很多能夠撰寫個人blog的網站，但是我認為做為一個資訊工程的學生不能太遜，所以網頁得自己開發，但是要精通CSS或前端框架會非常耗時，前端UI設計也不會是我的心之所向，所以我選擇透過tools幫我簡化靜態網頁的開發，讓我能有個美美的網站能寫blog，當我personlize那些設定檔後，我非常滿意目前網頁的layout。</p>
-<h2 id="減少接觸社交軟體"><a href="#減少接觸社交軟體" class="headerlink" title="減少接觸社交軟體"></a>減少接觸社交軟體</h2><p>原本我希望將紀錄發佈在instagram、threads，不過社交軟體上面充斥著各種吸引人的內容，一不留神就深陷其中，而那些內容會造成腦部分泌較多的多巴胺，造成人類較難回頭去讀書、去健身等，這些低多巴胺但非常有意義的活動時間就會被壓縮，而且身體會分泌其他物質平衡多巴胺，這些物質會造成愧疚與後悔等負面情緒。有鑑於此，我希望能減少接觸這種危險的東西。</p>
-<h2 id="為了成就感"><a href="#為了成就感" class="headerlink" title="為了成就感"></a>為了成就感</h2><p>當擁有自己的blog之後，不僅有美美的layout令我滿意，還有逐漸堆積起來的文章，這些有意義的文章能讓我感受到一直以來的努力與探索，就會覺得自己活得相當精采，增強自信。</p>
+<h2 id="我喜歡紀錄生活的過程"><a href="#我喜歡紀錄生活的過程" class="headerlink" title="我喜歡紀錄生活的過程"></a>我喜歡紀錄生活的過程</h2><p>生活中有很多事情等著我們去挖掘與嘗試，過程中會產生種種情緒，這些情感對我而言很珍貴，所以我想將其記錄下來，不僅可以更加瞭解自己，日後回顧也能透過 blog 的紀錄去回味那些生活中的酸甜苦辣。</p>
+<h2 id="Blog有很多種"><a href="#Blog有很多種" class="headerlink" title="Blog有很多種"></a>Blog有很多種</h2><p>網路上很多能夠撰寫個人 blog 的網站，但是我認為做為一個資訊工程的學生不能太遜，所以網頁得自己開發，但是要精通 CSS 或前端框架會非常耗時，前端UI設計也不會是我的心之所向，所以我選擇透過 tools 幫我簡化靜態網頁的開發，讓我能有個美美的網站能寫 blog，當我 personlize 那些設定檔後，我非常滿意目前網頁的 layout。</p>
+<h2 id="減少接觸社交軟體"><a href="#減少接觸社交軟體" class="headerlink" title="減少接觸社交軟體"></a>減少接觸社交軟體</h2><p>原本我希望將紀錄發佈在 instagram、threads，不過社交軟體上面充斥著各種吸引人的內容，一不留神就深陷其中，而那些內容會造成腦部分泌較多的多巴胺，造成人類較難回頭去讀書、去健身等，這些低多巴胺但非常有意義的活動時間就會被壓縮，而且身體會分泌其他物質平衡多巴胺，這些物質會造成愧疚與後悔等負面情緒。有鑑於此，我希望能減少接觸這種危險的東西。</p>
+<h2 id="為了成就感"><a href="#為了成就感" class="headerlink" title="為了成就感"></a>為了成就感</h2><p>當擁有自己的 blog 之後，不僅有美美的 layout 令我滿意，還有逐漸堆積起來的文章，這些有意義的文章能讓我感受到一直以來的努力與探索，就會覺得自己活得相當精采，增強自信。</p>
 ]]></content>
       <categories>
         <category>chit-chat</category>
@@ -19,181 +19,13 @@
       </tags>
   </entry>
   <entry>
-    <title>初入Hexo</title>
-    <url>/2024/08/27/%E5%88%9D%E5%85%A5Hexo/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><ul>
-<li><strong>非專業的文件</strong></li>
-<li>有簡易的執行步驟與人性化的說明<span id="more"></span></li>
-<li>專注在開發與踩雷<strong>心得</strong></li>
-<li>沒有IDE、Node.js、Git的安裝教學(其實安裝都很簡單啦)</li>
-<li>示例環境為Windows 11，VSCode</li>
-</ul>
-<h2 id="為甚麼選擇Hexo"><a href="#為甚麼選擇Hexo" class="headerlink" title="為甚麼選擇Hexo"></a>為甚麼選擇Hexo</h2><ul>
-<li>HTML&#x2F;CSS&#x2F;JavaScript前端三寶我只會基礎中的基礎而已，更遑論使用框架開發</li>
-<li>我很想要酷酷的個人網站</li>
-<li>練習看tool的文件並執行開發，因為我之前會對於看documentation感到恐慌，不可以再逃避了</li>
-<li>有些系上的大佬也是用Hexo架設blog，想走看看強者走過的路</li>
-<li>有這麼方便的tool，而且成果也會比自己想像的壯麗，還有不玩看看的理由嗎?</li>
-</ul>
-<h2 id="Hexo簡介"><a href="#Hexo簡介" class="headerlink" title="Hexo簡介"></a>Hexo簡介</h2><ul>
-<li>A fast, simple &amp; powerful blog framework, powered by <strong>Node.js</strong>.<ul>
-<li>抄官網的啦XD</li>
-</ul>
-</li>
-<li>只需要透過下指令、更改configuration就可以開發出個人網站，就是不需要打code啦!</li>
-<li>產生的網頁為靜態網頁，沒有後端的系統，所以網頁加載速度很快</li>
-<li>撰寫文章是透過markdown語法去實現<ul>
-<li>語法簡單</li>
-<li>可以寫出流程圖、數學函式等純文字文件難以實現的內容</li>
-</ul>
-</li>
-</ul>
-<h2 id="Hexo開發"><a href="#Hexo開發" class="headerlink" title="Hexo開發"></a>Hexo開發</h2><h3 id="一-準備開發Hexo環境"><a href="#一-準備開發Hexo環境" class="headerlink" title="(一) 準備開發Hexo環境"></a>(一) 準備開發Hexo環境</h3><h4 id="安裝所需的軟體"><a href="#安裝所需的軟體" class="headerlink" title="安裝所需的軟體"></a>安裝所需的軟體</h4><ul>
-<li>(optional)安裝<a class="link"   href="https://code.visualstudio.com/Download" >Visual Studio Code <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，用以編輯設定檔以及撰寫文章</li>
-<li>(<strong>required</strong>)安裝<a class="link"   href="https://git-scm.com/downloads" >Git <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，用以部署到Github，透過Github幫你代管</li>
-<li>(<strong>required</strong>)安裝<a class="link"   href="https://nodejs.org/en" >Node.js <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，因為需使用到<em>npm</em>去安裝部分檔案</li>
-</ul>
-<h4 id="建置環境"><a href="#建置環境" class="headerlink" title="建置環境"></a>建置環境</h4><ul>
-<li>使用cmd在任意目錄下執行，把hexo-cli下載在global端，也就是系統中的所有使用者都可以使用<em>hexo</em><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br></pre></td></tr></table></figure></div></li>
-<li>這樣子環境就準備好了，接下來就是開發你的專案!!!</li>
-</ul>
-<h3 id="二-Quick-Start"><a href="#二-Quick-Start" class="headerlink" title="(二) Quick Start"></a>(二) Quick Start</h3><ol>
-<li>準備一個放專案的目錄，目前就先預設此目錄名字為<em>blog-projects</em></li>
-<li>打開你的cmd並且進入<em>blog-projects</em>目錄下<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/init-hexo/cmd.png"
-                     
-                ></li>
-<li>初始化你的第一個專案，<em>MyBlog</em>可以換成你喜歡的名字<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo init MyBlog</span><br></pre></td></tr></table></figure></div>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/init-hexo/cmd2.png"
-                     
-                ></li>
-<li>這時候<em>MyBlog</em>就是你創建出來的一個專案了!!!</li>
-<li>進入<em>MyBlog</em>專案內<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> MyBlog</span><br></pre></td></tr></table></figure></div></li>
-<li>安裝必要的檔案<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure></div></li>
-<li>安裝完成後就是: 網頁~啟動~<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure></div></li>
-</ol>
-<h3 id="三-專案結構基本說明"><a href="#三-專案結構基本說明" class="headerlink" title="(三) 專案結構基本說明"></a>(三) 專案結構基本說明</h3><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">MyBlog/</span><br><span class="line">    ├── node_modules</span><br><span class="line">    ├── public</span><br><span class="line">    ├── scaffolds</span><br><span class="line">    ├── source</span><br><span class="line">    |   └── _posts</span><br><span class="line">    |── themes</span><br><span class="line">    ├── _config.yml</span><br><span class="line">    └── package.json</span><br></pre></td></tr></table></figure></div>
-<p><em>只提及接下來會運用到的檔案或目錄</em></p>
-<ol>
-<li><em>_config.yml</em> : 用來配置你的blog，看看註解就能略知一二</li>
-<li><em>source</em> : 網站的原始內容放在這邊，圖片、PDF檔、文章等。</li>
-<li><em>themes</em> : 放置你所下載的主題</li>
-<li><em>public</em> : 產生的靜態檔案會放在這裡</li>
-</ol>
-<h3 id="四-設定Blog主題"><a href="#四-設定Blog主題" class="headerlink" title="(四) 設定Blog主題"></a>(四) 設定Blog主題</h3><h4 id="如何下載心儀的主題"><a href="#如何下載心儀的主題" class="headerlink" title="如何下載心儀的主題?"></a>如何下載心儀的主題?</h4><ol>
-<li>首先在<a class="link"   href="https://hexo.io/themes/" >Themes|Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>選擇你喜歡的樣式</li>
-<li>接著點進該主題的Github，基本上都有配置文件，照著文件說明去安裝即可<ul>
-<li>其實就是<em>git clone</em>而已</li>
-</ul>
-</li>
-<li>下載完成後你就會看到<em>themes</em>就有該主題的資料夾了</li>
-</ol>
-<h4 id="調整主題所提供的項目"><a href="#調整主題所提供的項目" class="headerlink" title="調整主題所提供的項目"></a>調整主題所提供的項目</h4><p>接下來以<strong>YourTheme</strong>代稱你所選擇的主題，以便簡化說明</p>
-<ol>
-<li>首先調整 <strong>_config.yml</strong> 之中的theme，將冒號右側改成你要的主題<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/init-hexo/theme.png"
-                     
-                ></li>
-<li>打開 <strong>yourtheme</strong> 的資料夾</li>
-<li>複製其中的 <strong>_config.yml</strong> 的所有代碼</li>
-<li>在MyBlog之下新增 <strong>_config.yourtheme.yml</strong> 並且把你複製的代碼貼到此檔案之中</li>
-<li>之後就是看官方文件以及不斷微調 <strong>_config.yourtheme.yml</strong> 其中的內容</li>
-<li>由於不同主題的config會不同，效果也不同，接下來就不細說，建議直接看主題的官方文件，應該都很詳細。你會越來越了解config怎麼調整ㄉ</li>
-<li>編輯 <strong>_config.yourtheme.yml</strong> 的過程中，請時時使用 <em>hexo server</em> 查看效果如何，記得不要一次改太多喔!</li>
-</ol>
-<h3 id="五-Hexo基本操作"><a href="#五-Hexo基本操作" class="headerlink" title="(五) Hexo基本操作"></a>(五) Hexo基本操作</h3><ul>
-<li>初始化一個專案，&lt;your_project_name&gt;換成你喜歡的名字<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo init &lt;your_project_name&gt;</span><br></pre></td></tr></table></figure></div></li>
-<li>產生靜態網頁檔案，放在 <strong>public</strong> 裡面<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure></div></li>
-<li>在local端啟動網頁，讓你可以查看網頁目前的模樣<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure></div></li>
-<li>刪除 <strong>public</strong> 以便後續更新網頁並重新生成、部署網頁<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br></pre></td></tr></table></figure></div></li>
-<li>將靜態檔案部署到你指定的repository中<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure></div></li>
-<li>產生一則新的貼文， <strong>your_post_name</strong> 換成你要發的文章名<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new <span class="string">&quot;your_post_name&quot;</span></span><br></pre></td></tr></table></figure></div></li>
-<li>產生一個新的頁面， <strong>your_page_name</strong> 換成你指定的頁面名稱<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new page <span class="string">&quot;your_page_name&quot;</span></span><br></pre></td></tr></table></figure></div></li>
-</ul>
-<h3 id="六-部署到Github"><a href="#六-部署到Github" class="headerlink" title="(六) 部署到Github"></a>(六) 部署到Github</h3><ol>
-<li>註冊一個Github帳號</li>
-<li>創建一個新的repository為public，並且命名為 <strong>username.github.io</strong> ，username換成你的用戶名稱</li>
-<li>進入Settings裡面的Pages<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/init-hexo/hub1.png"
-                     
-                ></li>
-<li>把Source設成如圖<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/init-hexo/hub2.png"
-                     
-                ></li>
-<li>把Branch設成如圖<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/init-hexo/hub3.png"
-                     
-                ></li>
-<li>回到你的專案中，並進入專案的 <strong>_config.yml</strong> 編輯 <strong>deployment</strong> 處，寫成如圖的樣子<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/init-hexo/dply1.png"
-                     
-                ></li>
-<li>當你想要部署你的blog時，請按照順序執行如下指令<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure></div></li>
-<li>接著可以去你的repository查看上傳&#x2F;更新</li>
-<li>在Github幫你處理repository並且完成網頁渲染後，這時就可以在輸入網址 <strong>username.github.io</strong> 查看部署在此網域的網站了，其他人輸入網址也會看的到了喔</li>
-</ol>
-<h3 id="七-你可能會有的問題"><a href="#七-你可能會有的問題" class="headerlink" title="(七) 你可能會有的問題"></a>(七) 你可能會有的問題</h3><ol>
-<li>你可能會看到這個error: <em>ERROR Plugin load failed: hexo-site</em></li>
-</ol>
-<ul>
-<li>只要把 <strong>node_modules</strong> 之下的 <strong>hexo-site</strong> 刪除即可，就不會有錯誤訊息了<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">INFO  Validating config</span><br><span class="line">ERROR Plugin load failed: hexo-site</span><br><span class="line">Error: EISDIR: illegal operation on a directory, readat async readFileHandle (node:internal/fs/promises:553:24)</span><br></pre></td></tr></table></figure></div></li>
-</ul>
-<ol start="2">
-<li>為甚麼不直接調整yourtheme之下的_config.yml呢?</li>
-</ol>
-<ul>
-<li>為了避免更新主題後，客製的項目被覆蓋掉回到預設值</li>
-<li>至於命名一定要是那樣，這樣才能被hexo專案找到</li>
-</ul>
-<ol start="3">
-<li>在調整主題的config時，會看到 <em>fa-solid fa-face-smile</em> ，這啥呢?</li>
-</ol>
-<ul>
-<li>這是在引用Font Awesome圖示庫裡面的CSS樣式</li>
-<li><em>fa</em> 就是Font Awesome， <em>solid</em> 是風格， <em>face-smile</em> 是笑臉</li>
-</ul>
-<h3 id="Resources"><a href="#Resources" class="headerlink" title="Resources"></a>Resources</h3><ul>
-<li><a class="link"   href="https://favicon.io/" >favicon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>: 將圖片轉換成icon</li>
-<li><a class="link"   href="https://fontawesome.com/" >Font Awesome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>: 圖示庫</li>
-</ul>
-<h3 id="References"><a href="#References" class="headerlink" title="References"></a>References</h3><ul>
-<li><a class="link"   href="https://hexo.io/docs/" >Hexo Docs <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://redefine-docs.ohevan.com/" >Redefine Docs <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://cloud.tencent.com/developer/article/1520557" >这可能是迄今为止最全的hexo博客搭建教程 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>web</category>
-      </categories>
-      <tags>
-        <tag>tools</tag>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>資料科學導論-overview</title>
     <url>/2024/09/09/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%B0%8E%E8%AB%96-overview/</url>
     <content><![CDATA[<h2 id="PREPARATION"><a href="#PREPARATION" class="headerlink" title="PREPARATION"></a>PREPARATION</h2><h3 id="需要的工具"><a href="#需要的工具" class="headerlink" title="需要的工具"></a>需要的工具</h3><ul>
 <li>使用語言: Python</li>
 <li>開發環境: Jupyter Notebook<span id="more"></span></li>
 </ul>
-<h3 id="Jupyter-Notebook簡介"><a href="#Jupyter-Notebook簡介" class="headerlink" title="Jupyter Notebook簡介"></a>Jupyter Notebook簡介</h3><ul>
+<h3 id="Jupyter-Notebook-簡介"><a href="#Jupyter-Notebook-簡介" class="headerlink" title="Jupyter Notebook 簡介"></a>Jupyter Notebook 簡介</h3><ul>
 <li><strong>Jupyter Notebook is a web application.</strong></li>
 <li>What is a web app?<ul>
 <li>web app是一種透過browser去使用的應用程式，用戶不需要下載檔案，即可透過瀏覽器去訪問以及使用web app，即使用遠端server所提供的服務，運用server強大的硬體資源。</li>
@@ -203,7 +35,7 @@
 <li>Jupyter Notebook此軟體可以下載到本地端，並透過browser去使用</li>
 <li>透過此app開發的檔案，可以稱作notebook，副檔名為.ipynb(<strong>i</strong>nteractive <strong>py</strong>thon <strong>n</strong>ote<strong>b</strong>ook)</li>
 </ul>
-<h3 id="Jupyter-Notebook的優點"><a href="#Jupyter-Notebook的優點" class="headerlink" title="Jupyter Notebook的優點"></a>Jupyter Notebook的優點</h3><ol>
+<h3 id="Jupyter-Notebook-的優點"><a href="#Jupyter-Notebook-的優點" class="headerlink" title="Jupyter Notebook 的優點"></a>Jupyter Notebook 的優點</h3><ol>
 <li><em>交互式環境</em>: 可以按下快捷鍵及時執行code，可以馬上查看目前寫出來的成果</li>
 <li><em>支持多種語言</em>: Python, Julia, R……</li>
 <li><em>文檔與程式碼整合</em>: 可以混合markdown語法的文檔以及code，比起寫註解更容易規劃doc，也不用另外開其他軟體寫文件，整份notebook就可作為完整的文件以及program</li>
@@ -211,6 +43,30 @@
 <li><em>數據可視化</em>: 能夠直接嵌入數據可視化圖表（如 Matplotlib、Seaborn 或 Plotly 的圖表），允許資料科學家在一個環境中同時編寫代碼和查看視覺化結果，這大大提高了探索數據的效率。</li>
 <li><em>擴展性</em>: Jupyter Notebook的社群很活躍，擁有大量的擴展功能，可以支持更多進階的功能。</li>
 </ol>
+<h3 id="建置環境"><a href="#建置環境" class="headerlink" title="建置環境"></a>建置環境</h3><h4 id="Step1-安裝Python-for-Windows"><a href="#Step1-安裝Python-for-Windows" class="headerlink" title="Step1: 安裝Python(for Windows)"></a>Step1: 安裝Python(for Windows)</h4><p><em>It’s easy-peasy.</em></p>
+<ol>
+<li>進入 <a class="link"   href="https://www.python.org/downloads/" >Python <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 官網下載牠</li>
+<li>會得到一個執行檔案(.exe)，直接開啟牠</li>
+<li>先勾選 <em>Add Python x.x to PATH</em> ，讓安裝包順便幫你添加環境變數，這樣你就可以在任意路徑中下達 Python 指令了</li>
+<li>點擊 <em>Install Now</em>，接著等牠完成即可<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/data-sci/py_install.png"
+                      alt="hello data-science" width="500" height="308"
+                ></li>
+</ol>
+<h4 id="Step2-安裝-Jupyter"><a href="#Step2-安裝-Jupyter" class="headerlink" title="Step2: 安裝 Jupyter"></a>Step2: 安裝 Jupyter</h4><ul>
+<li>使用以下指令去安裝 Jupyter Notebook<ul>
+<li>兩者擇一即可， notebook 的下一代介面就是 lab</li>
+<li>pip 是 Python 的 package 管理工具<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">pip install jupyterlab</span><br><span class="line">pip install notebook</span><br></pre></td></tr></table></figure></div></li>
+</ul>
+</li>
+<li>啟動 Jupyter Notebook<ul>
+<li>使用哪個就開啟哪個吧<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">jupyter notebook</span><br><span class="line">jupyter lab</span><br></pre></td></tr></table></figure></div></li>
+</ul>
+</li>
+<li>這樣就可以開始撰寫程式碼了!</li>
+</ul>
 <h2 id="資料科學簡介"><a href="#資料科學簡介" class="headerlink" title="資料科學簡介"></a>資料科學簡介</h2><h3 id="What-is-Data-Science"><a href="#What-is-Data-Science" class="headerlink" title="What is Data Science?"></a><strong>What is Data Science?</strong></h3><p>Data Science 是一個跨領域的科學，需要具備三種能力:<br>    1.  <em>CS的能力</em> : 要有能夠寫出良好performance的程式，這牽扯到很多層面，你所使用的資料結構與演算法、你對環境的系統的了解、你所實作的語言等，畢竟就是想透過程式去減少人力消耗。<br>    2.  <em>數學能力</em> : 微積分、線性代數、機率與統計等。<br>    3.  <em>Domain Knowledge</em> : 商業、生醫等其他人們有需求、人們有興趣想要做預測或是分析的領域知識</p>
 <img  
                      lazyload
@@ -220,7 +76,7 @@
                 >
 
 <h3 id="Data-Science-and-Artifical-Intelligence"><a href="#Data-Science-and-Artifical-Intelligence" class="headerlink" title="Data Science and Artifical Intelligence:"></a><strong>Data Science and Artifical Intelligence:</strong></h3><ul>
-<li><em>Data Science</em> 是透過前述三種領域的能力，從data中學習知識的科目，目的是提取data中所蘊含的價值，而 AI 相關技術只是 data science 的實作方法的一種。</li>
+<li><em>Data Science</em> 是透過前述三種領域的能力，從 data 中學習知識的科目，目的是提取 data 中所蘊含的價值，而 AI 相關技術只是 data science 的實作方法的一種。</li>
 <li><em>Atificial Intelligence</em> 是一個廣義的概念，它指的是使機器具備模仿人類智能行為的技術或系統，所以很多工具在廣義上都是 AI。就算是按照規則回覆的聊天機器人，雖然不具備學習的能力，但符合 AI 的概念。而目前 AI 領域最熱門的技術就是 <em>Machine Learning</em> 以及 <em>Deep Learning</em> ， DL 是 ML 再進階，即 DL 是 ML 的子領域。<img  
                      lazyload
                      src="/images/loading.svg"
@@ -228,7 +84,7 @@
                       alt="hello data-science" width="500" height="330"
                 ></li>
 </ul>
-<h3 id="Machine-Learning-和-Deep-Learning的差異"><a href="#Machine-Learning-和-Deep-Learning的差異" class="headerlink" title="Machine Learning 和 Deep Learning的差異:"></a><strong>Machine Learning 和 Deep Learning的差異:</strong></h3><ul>
+<h3 id="Machine-Learning-和-Deep-Learning-的差異"><a href="#Machine-Learning-和-Deep-Learning-的差異" class="headerlink" title="Machine Learning 和 Deep Learning 的差異:"></a><strong>Machine Learning 和 Deep Learning 的差異:</strong></h3><ul>
 <li>ML 需要較多的前期資料處理和特徵工程，這通常是人力主導的過程。特徵工程指的是從原始資料中提取有用的特徵，這需要專家知識，比如對數據去噪、去除極端值、選擇有意義的變數等。</li>
 <li>DL 會進行自動化特徵提取。深度神經網絡（尤其是多層神經網絡）可以自動從大量的數據中學習特徵，而不需要像 ML 那樣人工提取特徵。儘管如此，DL 並不是完全不需要資料前處理。儘管 DL 模型能夠在未經過深入手工處理的原始資料上運作，通常還是需要一些基本的數據處理，比如正規化、標準化等，以提升訓練效果。<img  
                      lazyload
@@ -244,6 +100,174 @@
       <tags>
         <tag>data-science</tag>
         <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>初入 Hexo</title>
+    <url>/2024/08/27/%E5%88%9D%E5%85%A5Hexo/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><ul>
+<li><strong>非專業的文件</strong></li>
+<li>有簡易的執行步驟與人性化的說明<span id="more"></span></li>
+<li>專注在開發與踩雷<strong>心得</strong></li>
+<li>沒有 IDE, Node.js, Git的安裝教學(其實安裝都很簡單啦)</li>
+<li>示例環境為 Windows 11, VSCode</li>
+</ul>
+<h2 id="為甚麼選擇-Hexo"><a href="#為甚麼選擇-Hexo" class="headerlink" title="為甚麼選擇 Hexo"></a>為甚麼選擇 Hexo</h2><ul>
+<li>HTML&#x2F;CSS&#x2F;JavaScript 前端三寶我只會基礎中的基礎而已，更遑論使用框架開發</li>
+<li>我很想要酷酷的個人網站</li>
+<li>練習看 tool 的文件並執行開發，因為我之前會對於看 documentation 感到恐慌，不可以再逃避了</li>
+<li>有些系上的大佬也是用 Hexo 架設 blog，想走看看強者走過的路</li>
+<li>有這麼方便的 tool，而且成果也會比自己想像的壯麗，還有不玩看看的理由嗎?</li>
+</ul>
+<h2 id="Hexo-簡介"><a href="#Hexo-簡介" class="headerlink" title="Hexo 簡介"></a>Hexo 簡介</h2><ul>
+<li>A fast, simple &amp; powerful blog framework, powered by <strong>Node.js</strong>.<ul>
+<li>抄官網的啦XD</li>
+</ul>
+</li>
+<li>只需要透過下指令、更改 configuration 就可以開發出個人網站，就是不需要打 code 啦!</li>
+<li>產生的網頁為靜態網頁，沒有後端的系統，所以網頁加載速度很快</li>
+<li>撰寫文章是透過 markdown 語法去實現<ul>
+<li>語法簡單</li>
+<li>可以寫出流程圖、數學函式等純文字文件難以實現的內容</li>
+</ul>
+</li>
+</ul>
+<h2 id="Hexo-開發"><a href="#Hexo-開發" class="headerlink" title="Hexo 開發"></a>Hexo 開發</h2><h3 id="一-準備開發-Hexo-環境"><a href="#一-準備開發-Hexo-環境" class="headerlink" title="(一) 準備開發 Hexo 環境"></a>(一) 準備開發 Hexo 環境</h3><h4 id="安裝所需的軟體"><a href="#安裝所需的軟體" class="headerlink" title="安裝所需的軟體"></a>安裝所需的軟體</h4><ul>
+<li>(optional)安裝 <a class="link"   href="https://code.visualstudio.com/Download" >Visual Studio Code <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，用以編輯設定檔以及撰寫文章</li>
+<li>(<strong>required</strong>)安裝 <a class="link"   href="https://git-scm.com/downloads" >Git <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，用以部署到 Github，透過 Github 幫你代管</li>
+<li>(<strong>required</strong>)安裝 <a class="link"   href="https://nodejs.org/en" >Node.js <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，因為需使用到 <em>npm</em> 去安裝部分檔案</li>
+</ul>
+<h4 id="建置環境"><a href="#建置環境" class="headerlink" title="建置環境"></a>建置環境</h4><ul>
+<li>使用 cmd 在任意目錄下執行，把 hexo-cli 下載在 global 端，也就是系統中的所有使用者都可以使用 <em>hexo</em><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br></pre></td></tr></table></figure></div></li>
+<li>這樣子環境就準備好了，接下來就是開發你的專案!!!</li>
+</ul>
+<h3 id="二-Quick-Start"><a href="#二-Quick-Start" class="headerlink" title="(二) Quick Start"></a>(二) Quick Start</h3><ol>
+<li>準備一個放專案的目錄，目前就先預設此目錄名字為 <em>blog-projects</em></li>
+<li>打開你的cmd並且進入 <em>blog-projects</em> 目錄下<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/init-hexo/cmd.png"
+                     
+                ></li>
+<li>初始化你的第一個專案，<em>MyBlog</em> 可以換成你喜歡的名字<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo init MyBlog</span><br></pre></td></tr></table></figure></div>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/init-hexo/cmd2.png"
+                     
+                ></li>
+<li>這時候 <em>MyBlog</em> 就是你創建出來的一個專案了!!!</li>
+<li>進入 <em>MyBlog</em> 專案內<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> MyBlog</span><br></pre></td></tr></table></figure></div></li>
+<li>安裝必要的檔案<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure></div></li>
+<li>安裝完成後就是: 網頁~啟動~<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure></div></li>
+</ol>
+<h3 id="三-專案結構基本說明"><a href="#三-專案結構基本說明" class="headerlink" title="(三) 專案結構基本說明"></a>(三) 專案結構基本說明</h3><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">MyBlog/</span><br><span class="line">    ├── node_modules</span><br><span class="line">    ├── public</span><br><span class="line">    ├── scaffolds</span><br><span class="line">    ├── source</span><br><span class="line">    |   └── _posts</span><br><span class="line">    |── themes</span><br><span class="line">    ├── _config.yml</span><br><span class="line">    └── package.json</span><br></pre></td></tr></table></figure></div>
+<p><em>只提及接下來會運用到的檔案或目錄</em></p>
+<ol>
+<li><em>_config.yml</em> : 用來配置你的 blog，看看註解就能略知一二</li>
+<li><em>source</em> : 網站的原始內容放在這邊，圖片、PDF 檔、文章等。</li>
+<li><em>themes</em> : 放置你所下載的主題</li>
+<li><em>public</em> : 產生的靜態檔案會放在這裡</li>
+</ol>
+<h3 id="四-設定Blog主題"><a href="#四-設定Blog主題" class="headerlink" title="(四) 設定Blog主題"></a>(四) 設定Blog主題</h3><h4 id="如何下載心儀的主題"><a href="#如何下載心儀的主題" class="headerlink" title="如何下載心儀的主題?"></a>如何下載心儀的主題?</h4><ol>
+<li>首先在 <a class="link"   href="https://hexo.io/themes/" >Themes | Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 選擇你喜歡的樣式</li>
+<li>接著點進該主題的 Github，基本上都有配置文件，照著文件說明去安裝即可<ul>
+<li>其實就是 <em>git clone</em> 而已</li>
+</ul>
+</li>
+<li>下載完成後你就會看到 <em>themes</em> 就有該主題的資料夾了</li>
+</ol>
+<h4 id="調整主題所提供的項目"><a href="#調整主題所提供的項目" class="headerlink" title="調整主題所提供的項目"></a>調整主題所提供的項目</h4><p>接下來以 <strong>YourTheme</strong> 代稱你所選擇的主題，以便簡化說明</p>
+<ol>
+<li>首先調整 <strong>_config.yml</strong> 之中的theme，將冒號右側改成你要的主題<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/init-hexo/theme.png"
+                     
+                ></li>
+<li>打開 <strong>yourtheme</strong> 的資料夾</li>
+<li>複製其中的 <strong>_config.yml</strong> 的所有代碼</li>
+<li>在MyBlog之下新增 <strong>_config.yourtheme.yml</strong> 並且把你複製的代碼貼到此檔案之中</li>
+<li>之後就是看官方文件以及不斷微調 <strong>_config.yourtheme.yml</strong> 其中的內容</li>
+<li>由於不同主題的 config 會不同，效果也不同，接下來就不細說，建議直接看主題的官方文件，應該都很詳細。你會越來越了解 config 怎麼調整ㄉ</li>
+<li>編輯 <strong>_config.yourtheme.yml</strong> 的過程中，請時時使用 <em>hexo server</em> 查看效果如何，記得不要一次改太多喔!</li>
+</ol>
+<h3 id="五-Hexo基本操作"><a href="#五-Hexo基本操作" class="headerlink" title="(五) Hexo基本操作"></a>(五) Hexo基本操作</h3><ul>
+<li>初始化一個專案， &lt;your_project_name&gt; 換成你喜歡的名字<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo init &lt;your_project_name&gt;</span><br></pre></td></tr></table></figure></div></li>
+<li>產生靜態網頁檔案，放在 <strong>public</strong> 裡面<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure></div></li>
+<li>在 local 端啟動網頁，讓你可以查看網頁目前的模樣<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure></div></li>
+<li>刪除 <strong>public</strong> 以便後續更新網頁並重新生成、部署網頁<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br></pre></td></tr></table></figure></div></li>
+<li>將靜態檔案部署到你指定的 repository 中<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure></div></li>
+<li>產生一則新的貼文， <strong>your_post_name</strong> 換成你要發的文章名<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new <span class="string">&quot;your_post_name&quot;</span></span><br></pre></td></tr></table></figure></div></li>
+<li>產生一個新的頁面， <strong>your_page_name</strong> 換成你指定的頁面名稱<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new page <span class="string">&quot;your_page_name&quot;</span></span><br></pre></td></tr></table></figure></div></li>
+</ul>
+<h3 id="六-部署到Github"><a href="#六-部署到Github" class="headerlink" title="(六) 部署到Github"></a>(六) 部署到Github</h3><ol>
+<li>註冊一個 Github 帳號</li>
+<li>創建一個新的 repository 為 public，並且命名為 <strong>username.github.io</strong> ， username 換成你的用戶名稱</li>
+<li>進入Settings裡面的Pages<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/init-hexo/hub1.png"
+                     
+                ></li>
+<li>把 Source 設成如圖<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/init-hexo/hub2.png"
+                     
+                ></li>
+<li>把 Branch 設成如圖<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/init-hexo/hub3.png"
+                     
+                ></li>
+<li>回到你的專案中，並進入專案的 <strong>_config.yml</strong> 編輯 <strong>deployment</strong> 處，寫成如圖的樣子<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/init-hexo/dply1.png"
+                     
+                ></li>
+<li>當你想要部署你的 blog 時，請按照順序執行如下指令<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure></div></li>
+<li>接著可以去你的 repository 查看上傳&#x2F;更新</li>
+<li>在 Github 幫你處理 repository 並且完成網頁渲染後，這時就可以在輸入網址 <strong>username.github.io</strong> 查看部署在此網域的網站了，其他人輸入網址也會看的到了喔</li>
+</ol>
+<h3 id="七-你可能會有的問題"><a href="#七-你可能會有的問題" class="headerlink" title="(七) 你可能會有的問題"></a>(七) 你可能會有的問題</h3><ol>
+<li>你可能會看到這個 error: <em>ERROR Plugin load failed: hexo-site</em></li>
+</ol>
+<ul>
+<li>只要把 <strong>node_modules</strong> 之下的 <strong>hexo-site</strong> 刪除即可，就不會有錯誤訊息了<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">INFO  Validating config</span><br><span class="line">ERROR Plugin load failed: hexo-site</span><br><span class="line">Error: EISDIR: illegal operation on a directory, readat async readFileHandle (node:internal/fs/promises:553:24)</span><br></pre></td></tr></table></figure></div></li>
+</ul>
+<ol start="2">
+<li>為甚麼不直接調整 yourtheme 之下的 _config.yml 呢?</li>
+</ol>
+<ul>
+<li>為了避免更新主題後，客製的項目被覆蓋掉回到預設值</li>
+<li>至於命名一定要是那樣，這樣才能被 hexo 專案找到</li>
+</ul>
+<ol start="3">
+<li>在調整主題的 config 時，會看到 <em>fa-solid fa-face-smile</em> ，這啥呢?</li>
+</ol>
+<ul>
+<li>這是在引用 Font Awesome 圖示庫裡面的 CSS 樣式</li>
+<li><em>fa</em> 就是 Font Awesome， <em>solid</em> 是風格， <em>face-smile</em> 是笑臉</li>
+</ul>
+<h3 id="Resources"><a href="#Resources" class="headerlink" title="Resources"></a>Resources</h3><ul>
+<li><a class="link"   href="https://favicon.io/" >favicon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>: 將圖片轉換成icon</li>
+<li><a class="link"   href="https://fontawesome.com/" >Font Awesome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>: 圖示庫</li>
+</ul>
+<h3 id="References"><a href="#References" class="headerlink" title="References"></a>References</h3><ul>
+<li><a class="link"   href="https://hexo.io/docs/" >Hexo Docs <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://redefine-docs.ohevan.com/" >Redefine Docs <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://cloud.tencent.com/developer/article/1520557" >这可能是迄今为止最全的 hexo 博客搭建教程 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+      <tags>
+        <tag>tools</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
 </search>

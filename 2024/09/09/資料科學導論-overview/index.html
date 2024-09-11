@@ -29,16 +29,17 @@
 <meta property="og:site_name" content="Dennis Blog">
 <meta property="og:description" content="PREPARATION需要的工具 使用語言: Python 開發環境: Jupyter Notebook">
 <meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://dennislee03.github.io/images/data-sci/py_install.png">
 <meta property="og:image" content="https://dennislee03.github.io/images/data-sci/ddm.png">
 <meta property="og:image" content="https://dennislee03.github.io/images/data-sci/union.png">
 <meta property="og:image" content="https://dennislee03.github.io/images/data-sci/MLandDL.png">
 <meta property="article:published_time" content="2024-09-09T11:04:22.000Z">
-<meta property="article:modified_time" content="2024-09-11T07:57:38.331Z">
+<meta property="article:modified_time" content="2024-09-11T08:44:32.769Z">
 <meta property="article:author" content="Dennis Lee">
 <meta property="article:tag" content="data-science">
 <meta property="article:tag" content="python">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://dennislee03.github.io/images/data-sci/ddm.png">
+<meta name="twitter:image" content="https://dennislee03.github.io/images/data-sci/py_install.png">
     
     
     <!--- Icon Part-->
@@ -594,8 +595,8 @@
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-09-11 15:57:38</span>
-            <span class="mobile">2024-09-11 15:57:38</span>
+            <span class="desktop">2024-09-11 16:44:32</span>
+            <span class="mobile">2024-09-11 16:44:32</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -657,7 +658,7 @@
 <li>使用語言: Python</li>
 <li>開發環境: Jupyter Notebook<span id="more"></span></li>
 </ul>
-<h3 id="Jupyter-Notebook簡介"><a href="#Jupyter-Notebook簡介" class="headerlink" title="Jupyter Notebook簡介"></a>Jupyter Notebook簡介</h3><ul>
+<h3 id="Jupyter-Notebook-簡介"><a href="#Jupyter-Notebook-簡介" class="headerlink" title="Jupyter Notebook 簡介"></a>Jupyter Notebook 簡介</h3><ul>
 <li><strong>Jupyter Notebook is a web application.</strong></li>
 <li>What is a web app?<ul>
 <li>web app是一種透過browser去使用的應用程式，用戶不需要下載檔案，即可透過瀏覽器去訪問以及使用web app，即使用遠端server所提供的服務，運用server強大的硬體資源。</li>
@@ -667,7 +668,7 @@
 <li>Jupyter Notebook此軟體可以下載到本地端，並透過browser去使用</li>
 <li>透過此app開發的檔案，可以稱作notebook，副檔名為.ipynb(<strong>i</strong>nteractive <strong>py</strong>thon <strong>n</strong>ote<strong>b</strong>ook)</li>
 </ul>
-<h3 id="Jupyter-Notebook的優點"><a href="#Jupyter-Notebook的優點" class="headerlink" title="Jupyter Notebook的優點"></a>Jupyter Notebook的優點</h3><ol>
+<h3 id="Jupyter-Notebook-的優點"><a href="#Jupyter-Notebook-的優點" class="headerlink" title="Jupyter Notebook 的優點"></a>Jupyter Notebook 的優點</h3><ol>
 <li><em>交互式環境</em>: 可以按下快捷鍵及時執行code，可以馬上查看目前寫出來的成果</li>
 <li><em>支持多種語言</em>: Python, Julia, R……</li>
 <li><em>文檔與程式碼整合</em>: 可以混合markdown語法的文檔以及code，比起寫註解更容易規劃doc，也不用另外開其他軟體寫文件，整份notebook就可作為完整的文件以及program</li>
@@ -675,6 +676,30 @@
 <li><em>數據可視化</em>: 能夠直接嵌入數據可視化圖表（如 Matplotlib、Seaborn 或 Plotly 的圖表），允許資料科學家在一個環境中同時編寫代碼和查看視覺化結果，這大大提高了探索數據的效率。</li>
 <li><em>擴展性</em>: Jupyter Notebook的社群很活躍，擁有大量的擴展功能，可以支持更多進階的功能。</li>
 </ol>
+<h3 id="建置環境"><a href="#建置環境" class="headerlink" title="建置環境"></a>建置環境</h3><h4 id="Step1-安裝Python-for-Windows"><a href="#Step1-安裝Python-for-Windows" class="headerlink" title="Step1: 安裝Python(for Windows)"></a>Step1: 安裝Python(for Windows)</h4><p><em>It’s easy-peasy.</em></p>
+<ol>
+<li>進入 <a class="link"   target="_blank" rel="noopener" href="https://www.python.org/downloads/" >Python <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 官網下載牠</li>
+<li>會得到一個執行檔案(.exe)，直接開啟牠</li>
+<li>先勾選 <em>Add Python x.x to PATH</em> ，讓安裝包順便幫你添加環境變數，這樣你就可以在任意路徑中下達 Python 指令了</li>
+<li>點擊 <em>Install Now</em>，接著等牠完成即可<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/data-sci/py_install.png"
+                      alt="hello data-science" width="500" height="308"
+                ></li>
+</ol>
+<h4 id="Step2-安裝-Jupyter"><a href="#Step2-安裝-Jupyter" class="headerlink" title="Step2: 安裝 Jupyter"></a>Step2: 安裝 Jupyter</h4><ul>
+<li>使用以下指令去安裝 Jupyter Notebook<ul>
+<li>兩者擇一即可， notebook 的下一代介面就是 lab</li>
+<li>pip 是 Python 的 package 管理工具<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">pip install jupyterlab</span><br><span class="line">pip install notebook</span><br></pre></td></tr></table></figure></div></li>
+</ul>
+</li>
+<li>啟動 Jupyter Notebook<ul>
+<li>使用哪個就開啟哪個吧<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">jupyter notebook</span><br><span class="line">jupyter lab</span><br></pre></td></tr></table></figure></div></li>
+</ul>
+</li>
+<li>這樣就可以開始撰寫程式碼了!</li>
+</ul>
 <h2 id="資料科學簡介"><a href="#資料科學簡介" class="headerlink" title="資料科學簡介"></a>資料科學簡介</h2><h3 id="What-is-Data-Science"><a href="#What-is-Data-Science" class="headerlink" title="What is Data Science?"></a><strong>What is Data Science?</strong></h3><p>Data Science 是一個跨領域的科學，需要具備三種能力:<br>    1.  <em>CS的能力</em> : 要有能夠寫出良好performance的程式，這牽扯到很多層面，你所使用的資料結構與演算法、你對環境的系統的了解、你所實作的語言等，畢竟就是想透過程式去減少人力消耗。<br>    2.  <em>數學能力</em> : 微積分、線性代數、機率與統計等。<br>    3.  <em>Domain Knowledge</em> : 商業、生醫等其他人們有需求、人們有興趣想要做預測或是分析的領域知識</p>
 <img  
                      lazyload
@@ -684,7 +709,7 @@
                 >
 
 <h3 id="Data-Science-and-Artifical-Intelligence"><a href="#Data-Science-and-Artifical-Intelligence" class="headerlink" title="Data Science and Artifical Intelligence:"></a><strong>Data Science and Artifical Intelligence:</strong></h3><ul>
-<li><em>Data Science</em> 是透過前述三種領域的能力，從data中學習知識的科目，目的是提取data中所蘊含的價值，而 AI 相關技術只是 data science 的實作方法的一種。</li>
+<li><em>Data Science</em> 是透過前述三種領域的能力，從 data 中學習知識的科目，目的是提取 data 中所蘊含的價值，而 AI 相關技術只是 data science 的實作方法的一種。</li>
 <li><em>Atificial Intelligence</em> 是一個廣義的概念，它指的是使機器具備模仿人類智能行為的技術或系統，所以很多工具在廣義上都是 AI。就算是按照規則回覆的聊天機器人，雖然不具備學習的能力，但符合 AI 的概念。而目前 AI 領域最熱門的技術就是 <em>Machine Learning</em> 以及 <em>Deep Learning</em> ， DL 是 ML 再進階，即 DL 是 ML 的子領域。<img  
                      lazyload
                      src="/images/loading.svg"
@@ -692,7 +717,7 @@
                       alt="hello data-science" width="500" height="330"
                 ></li>
 </ul>
-<h3 id="Machine-Learning-和-Deep-Learning的差異"><a href="#Machine-Learning-和-Deep-Learning的差異" class="headerlink" title="Machine Learning 和 Deep Learning的差異:"></a><strong>Machine Learning 和 Deep Learning的差異:</strong></h3><ul>
+<h3 id="Machine-Learning-和-Deep-Learning-的差異"><a href="#Machine-Learning-和-Deep-Learning-的差異" class="headerlink" title="Machine Learning 和 Deep Learning 的差異:"></a><strong>Machine Learning 和 Deep Learning 的差異:</strong></h3><ul>
 <li>ML 需要較多的前期資料處理和特徵工程，這通常是人力主導的過程。特徵工程指的是從原始資料中提取有用的特徵，這需要專家知識，比如對數據去噪、去除極端值、選擇有意義的變數等。</li>
 <li>DL 會進行自動化特徵提取。深度神經網絡（尤其是多層神經網絡）可以自動從大量的數據中學習特徵，而不需要像 ML 那樣人工提取特徵。儘管如此，DL 並不是完全不需要資料前處理。儘管 DL 模型能夠在未經過深入手工處理的原始資料上運作，通常還是需要一些基本的數據處理，比如正規化、標準化等，以提升訓練效果。<img  
                      lazyload
@@ -715,7 +740,7 @@
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-09-11 15:57:38
+                    :</strong> 2024-09-11 16:44:32
             </li>
         
         <li>
@@ -763,7 +788,7 @@
                         href="/2024/08/27/%E5%88%9D%E5%85%A5Hexo/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">初入Hexo</span>
+                                <span class="post-nav-title-item">初入 Hexo</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -785,7 +810,7 @@
     <div class="post-toc">
         <div class="toc-title">On this page</div>
         <div class="page-title">資料科學導論-overview</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#PREPARATION"><span class="nav-text">PREPARATION</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%9C%80%E8%A6%81%E7%9A%84%E5%B7%A5%E5%85%B7"><span class="nav-text">需要的工具</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Jupyter-Notebook%E7%B0%A1%E4%BB%8B"><span class="nav-text">Jupyter Notebook簡介</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Jupyter-Notebook%E7%9A%84%E5%84%AA%E9%BB%9E"><span class="nav-text">Jupyter Notebook的優點</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E7%B0%A1%E4%BB%8B"><span class="nav-text">資料科學簡介</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#What-is-Data-Science"><span class="nav-text">What is Data Science?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Data-Science-and-Artifical-Intelligence"><span class="nav-text">Data Science and Artifical Intelligence:</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Machine-Learning-%E5%92%8C-Deep-Learning%E7%9A%84%E5%B7%AE%E7%95%B0"><span class="nav-text">Machine Learning 和 Deep Learning的差異:</span></a></li></ol></li></ol>
+        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#PREPARATION"><span class="nav-text">PREPARATION</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%9C%80%E8%A6%81%E7%9A%84%E5%B7%A5%E5%85%B7"><span class="nav-text">需要的工具</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Jupyter-Notebook-%E7%B0%A1%E4%BB%8B"><span class="nav-text">Jupyter Notebook 簡介</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Jupyter-Notebook-%E7%9A%84%E5%84%AA%E9%BB%9E"><span class="nav-text">Jupyter Notebook 的優點</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%BB%BA%E7%BD%AE%E7%92%B0%E5%A2%83"><span class="nav-text">建置環境</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#Step1-%E5%AE%89%E8%A3%9DPython-for-Windows"><span class="nav-text">Step1: 安裝Python(for Windows)</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Step2-%E5%AE%89%E8%A3%9D-Jupyter"><span class="nav-text">Step2: 安裝 Jupyter</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E7%B0%A1%E4%BB%8B"><span class="nav-text">資料科學簡介</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#What-is-Data-Science"><span class="nav-text">What is Data Science?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Data-Science-and-Artifical-Intelligence"><span class="nav-text">Data Science and Artifical Intelligence:</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Machine-Learning-%E5%92%8C-Deep-Learning-%E7%9A%84%E5%B7%AE%E7%95%B0"><span class="nav-text">Machine Learning 和 Deep Learning 的差異:</span></a></li></ol></li></ol>
 
     </div>
 </div>
