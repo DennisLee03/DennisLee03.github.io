@@ -219,25 +219,25 @@
                       alt="hello data-science" width="500" height="500"
                 >
 
-<h3 id="Data-Science-and-Artifical-Intelligence"><a href="#Data-Science-and-Artifical-Intelligence" class="headerlink" title="Data Science and Artifical Intelligence:"></a><strong>Data Science and Artifical Intelligence:</strong></h3><pre><code>*   *Data Science* 是透過前述三種領域的能力，從data中學習知識的科目，目的是提取data中所蘊含的價值，而 AI 相關技術只是 data science 的實作方法的一種。
-*   *Atificial Intelligence* 是一個廣義的概念，它指的是使機器具備模仿人類智能行為的技術或系統，所以很多工具在廣義上都是 AI。就算是按照規則回覆的聊天機器人，雖然不具備學習的能力，但符合 AI 的概念。而目前 AI 領域最熱門的技術就是 *Machine Learning* 以及 *Deep Learning* ， DL 是 ML 再進階，即 DL 是 ML 的子領域。
-</code></pre>
-<img  
+<h3 id="Data-Science-and-Artifical-Intelligence"><a href="#Data-Science-and-Artifical-Intelligence" class="headerlink" title="Data Science and Artifical Intelligence:"></a><strong>Data Science and Artifical Intelligence:</strong></h3><ul>
+<li><em>Data Science</em> 是透過前述三種領域的能力，從data中學習知識的科目，目的是提取data中所蘊含的價值，而 AI 相關技術只是 data science 的實作方法的一種。</li>
+<li><em>Atificial Intelligence</em> 是一個廣義的概念，它指的是使機器具備模仿人類智能行為的技術或系統，所以很多工具在廣義上都是 AI。就算是按照規則回覆的聊天機器人，雖然不具備學習的能力，但符合 AI 的概念。而目前 AI 領域最熱門的技術就是 <em>Machine Learning</em> 以及 <em>Deep Learning</em> ， DL 是 ML 再進階，即 DL 是 ML 的子領域。<img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="/images/data-sci/union.png"
                       alt="hello data-science" width="500" height="330"
-                >
-
-<h3 id="Machine-Learning-和-Deep-Learning的差異"><a href="#Machine-Learning-和-Deep-Learning的差異" class="headerlink" title="Machine Learning 和 Deep Learning的差異:"></a><strong>Machine Learning 和 Deep Learning的差異:</strong></h3><pre><code>*   ML 需要較多的前期資料處理和特徵工程，這通常是人力主導的過程。特徵工程指的是從原始資料中提取有用的特徵，這需要專家知識，比如對數據去噪、去除極端值、選擇有意義的變數等。
-*   DL 會進行自動化特徵提取。深度神經網絡（尤其是多層神經網絡）可以自動從大量的數據中學習特徵，而不需要像 ML 那樣人工提取特徵。儘管如此，DL 並不是完全不需要資料前處理。儘管 DL 模型能夠在未經過深入手工處理的原始資料上運作，通常還是需要一些基本的數據處理，比如正規化、標準化等，以提升訓練效果。
-</code></pre>
-<img  
+                ></li>
+</ul>
+<h3 id="Machine-Learning-和-Deep-Learning的差異"><a href="#Machine-Learning-和-Deep-Learning的差異" class="headerlink" title="Machine Learning 和 Deep Learning的差異:"></a><strong>Machine Learning 和 Deep Learning的差異:</strong></h3><ul>
+<li>ML 需要較多的前期資料處理和特徵工程，這通常是人力主導的過程。特徵工程指的是從原始資料中提取有用的特徵，這需要專家知識，比如對數據去噪、去除極端值、選擇有意義的變數等。</li>
+<li>DL 會進行自動化特徵提取。深度神經網絡（尤其是多層神經網絡）可以自動從大量的數據中學習特徵，而不需要像 ML 那樣人工提取特徵。儘管如此，DL 並不是完全不需要資料前處理。儘管 DL 模型能夠在未經過深入手工處理的原始資料上運作，通常還是需要一些基本的數據處理，比如正規化、標準化等，以提升訓練效果。<img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="/images/data-sci/MLandDL.png"
                       alt="hello data-science" width="500" height="313"
-                >]]></content>
+                ></li>
+</ul>
+]]></content>
       <categories>
         <category>data-science</category>
       </categories>
