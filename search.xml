@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Why Blogging?</title>
-    <url>/2024/08/27/Why-Blogging/</url>
-    <content><![CDATA[<h2 id="我認為最好的學習方法"><a href="#我認為最好的學習方法" class="headerlink" title="我認為最好的學習方法"></a>我認為最好的學習方法</h2><p>對於我來說，最有效的學習方法就是「試著表達剛學過的東西」，一方面能加深記憶，一方面能找找自己是否有明顯的盲點，這樣讓我能在第一步的學習中解決更多問題。</p>
-<span id="more"></span>
-
-<h2 id="我喜歡紀錄生活的過程"><a href="#我喜歡紀錄生活的過程" class="headerlink" title="我喜歡紀錄生活的過程"></a>我喜歡紀錄生活的過程</h2><p>生活中有很多事情等著我們去挖掘與嘗試，過程中會產生種種情緒，這些情感對我而言很珍貴，所以我想將其記錄下來，不僅可以更加瞭解自己，日後回顧也能透過blog的紀錄去回味那些生活中的酸甜苦辣。</p>
-<h2 id="Blog有很多種"><a href="#Blog有很多種" class="headerlink" title="Blog有很多種"></a>Blog有很多種</h2><p>網路上很多能夠撰寫個人blog的網站，但是我認為做為一個資訊工程的學生不能太遜，所以網頁得自己開發，但是要精通CSS或前端框架會非常耗時，前端UI設計也不會是我的心之所向，所以我選擇透過tools幫我簡化靜態網頁的開發，讓我能有個美美的網站能寫blog，當我personlize那些設定檔後，我非常滿意目前網頁的layout。</p>
-<h2 id="減少接觸社交軟體"><a href="#減少接觸社交軟體" class="headerlink" title="減少接觸社交軟體"></a>減少接觸社交軟體</h2><p>原本我希望將紀錄發佈在instagram、threads，不過社交軟體上面充斥著各種吸引人的內容，一不留神就深陷其中，而那些內容會造成腦部分泌較多的多巴胺，造成人類較難回頭去讀書、去健身等，這些低多巴胺但非常有意義的活動時間就會被壓縮，而且身體會分泌其他物質平衡多巴胺，這些物質會造成愧疚與後悔等負面情緒。有鑑於此，我希望能減少接觸這種危險的東西。</p>
-<h2 id="為了成就感"><a href="#為了成就感" class="headerlink" title="為了成就感"></a>為了成就感</h2><p>當擁有自己的blog之後，不僅有美美的layout令我滿意，還有逐漸堆積起來的文章，這些有意義的文章能讓我感受到一直以來的努力與探索，就會覺得自己活得相當精采，增強自信。</p>
-]]></content>
-      <categories>
-        <category>chit-chat</category>
-      </categories>
-      <tags>
-        <tag>Dennis</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>初入Hexo</title>
     <url>/2024/08/27/%E5%88%9D%E5%85%A5Hexo/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><ul>
@@ -184,6 +166,97 @@
       <tags>
         <tag>tools</tag>
         <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Why Blogging?</title>
+    <url>/2024/08/27/Why-Blogging/</url>
+    <content><![CDATA[<h2 id="我認為最好的學習方法"><a href="#我認為最好的學習方法" class="headerlink" title="我認為最好的學習方法"></a>我認為最好的學習方法</h2><p>對於我來說，最有效的學習方法就是「試著表達剛學過的東西」，一方面能加深記憶，一方面能找找自己是否有明顯的盲點，這樣讓我能在第一步的學習中解決更多問題。</p>
+<span id="more"></span>
+
+<h2 id="我喜歡紀錄生活的過程"><a href="#我喜歡紀錄生活的過程" class="headerlink" title="我喜歡紀錄生活的過程"></a>我喜歡紀錄生活的過程</h2><p>生活中有很多事情等著我們去挖掘與嘗試，過程中會產生種種情緒，這些情感對我而言很珍貴，所以我想將其記錄下來，不僅可以更加瞭解自己，日後回顧也能透過blog的紀錄去回味那些生活中的酸甜苦辣。</p>
+<h2 id="Blog有很多種"><a href="#Blog有很多種" class="headerlink" title="Blog有很多種"></a>Blog有很多種</h2><p>網路上很多能夠撰寫個人blog的網站，但是我認為做為一個資訊工程的學生不能太遜，所以網頁得自己開發，但是要精通CSS或前端框架會非常耗時，前端UI設計也不會是我的心之所向，所以我選擇透過tools幫我簡化靜態網頁的開發，讓我能有個美美的網站能寫blog，當我personlize那些設定檔後，我非常滿意目前網頁的layout。</p>
+<h2 id="減少接觸社交軟體"><a href="#減少接觸社交軟體" class="headerlink" title="減少接觸社交軟體"></a>減少接觸社交軟體</h2><p>原本我希望將紀錄發佈在instagram、threads，不過社交軟體上面充斥著各種吸引人的內容，一不留神就深陷其中，而那些內容會造成腦部分泌較多的多巴胺，造成人類較難回頭去讀書、去健身等，這些低多巴胺但非常有意義的活動時間就會被壓縮，而且身體會分泌其他物質平衡多巴胺，這些物質會造成愧疚與後悔等負面情緒。有鑑於此，我希望能減少接觸這種危險的東西。</p>
+<h2 id="為了成就感"><a href="#為了成就感" class="headerlink" title="為了成就感"></a>為了成就感</h2><p>當擁有自己的blog之後，不僅有美美的layout令我滿意，還有逐漸堆積起來的文章，這些有意義的文章能讓我感受到一直以來的努力與探索，就會覺得自己活得相當精采，增強自信。</p>
+]]></content>
+      <categories>
+        <category>chit-chat</category>
+      </categories>
+      <tags>
+        <tag>Dennis</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>資料科學導論-overview</title>
+    <url>/2024/09/09/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%B0%8E%E8%AB%96-overview/</url>
+    <content><![CDATA[<h2 id="PREPARATION"><a href="#PREPARATION" class="headerlink" title="PREPARATION"></a>PREPARATION</h2><h3 id="需要的工具"><a href="#需要的工具" class="headerlink" title="需要的工具"></a>需要的工具</h3><ul>
+<li>使用語言: Python</li>
+<li>開發環境: Jupyter Notebook<span id="more"></span></li>
+</ul>
+<h3 id="Jupyter-Notebook簡介"><a href="#Jupyter-Notebook簡介" class="headerlink" title="Jupyter Notebook簡介"></a>Jupyter Notebook簡介</h3><ul>
+<li><strong>Jupyter Notebook is a web application.</strong></li>
+<li>What is a web app?<ul>
+<li>web app是一種透過browser去使用的應用程式，用戶不需要下載檔案，即可透過瀏覽器去訪問以及使用web app，即使用遠端server所提供的服務，運用server強大的硬體資源。</li>
+<li>軟體即服務: SaaS(Software as a Service)</li>
+</ul>
+</li>
+<li>Jupyter Notebook此軟體可以下載到本地端，並透過browser去使用</li>
+<li>透過此app開發的檔案，可以稱作notebook，副檔名為.ipynb(<strong>i</strong>nteractive <strong>py</strong>thon <strong>n</strong>ote<strong>b</strong>ook)</li>
+</ul>
+<h3 id="Jupyter-Notebook的優點"><a href="#Jupyter-Notebook的優點" class="headerlink" title="Jupyter Notebook的優點"></a>Jupyter Notebook的優點</h3><ol>
+<li><em>交互式環境</em>: 可以按下快捷鍵及時執行code，可以馬上查看目前寫出來的成果</li>
+<li><em>支持多種語言</em>: Python, Julia, R……</li>
+<li><em>文檔與程式碼整合</em>: 可以混合markdown語法的文檔以及code，比起寫註解更容易規劃doc，也不用另外開其他軟體寫文件，整份notebook就可作為完整的文件以及program</li>
+<li><em>簡單的測試與修改</em>: 可以在別的cell裡面直接測試自己想嘗試的code，試完可以馬上刪掉或是另作使用</li>
+<li><em>數據可視化</em>: 能夠直接嵌入數據可視化圖表（如 Matplotlib、Seaborn 或 Plotly 的圖表），允許資料科學家在一個環境中同時編寫代碼和查看視覺化結果，這大大提高了探索數據的效率。</li>
+<li><em>擴展性</em>: Jupyter Notebook的社群很活躍，擁有大量的擴展功能，可以支持更多進階的功能。</li>
+</ol>
+<h2 id="資料科學簡介"><a href="#資料科學簡介" class="headerlink" title="資料科學簡介"></a>資料科學簡介</h2><ul>
+<li><strong>What is Data Science?</strong><br>Data Science 是一個跨領域的科學，需要具備三種能力:<ol>
+<li><em>CS的能力</em> : 要有能夠寫出良好performance的程式，這牽扯到很多層面，你所使用的資料結構與演算法、你對環境的系統的了解、你所實作的語言等，畢竟就是想透過程式去減少人力消耗。</li>
+<li><em>數學能力</em> : 微積分、線性代數、機率與統計等。</li>
+<li><em>Domain Knowledge</em> : 商業、生醫等其他人們有需求、人們有興趣想要做預測或是分析的領域知識</li>
+</ol>
+</li>
+</ul>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/data-sci/ddm.png"
+                      alt="hello data-science" width="500" height="500"
+                >
+
+<ul>
+<li><p><strong>Data Science and Artifical Intelligence:</strong></p>
+<ul>
+<li><em>Data Science</em> 是透過前述三種領域的能力，從data中學習知識的科目，目的是提取data中所蘊含的價值，而 AI 相關技術只是 data science 的實作方法的一種。</li>
+<li><em>Atificial Intelligence</em> 是一個廣義的概念，它指的是使機器具備模仿人類智能行為的技術或系統，所以很多工具在廣義上都是 AI。就算是按照規則回覆的聊天機器人，雖然不具備學習的能力，但符合 AI 的概念。而目前 AI 領域最熱門的技術就是 <em>Machine Learning</em> 以及 <em>Deep Learning</em> ， DL 是 ML 再進階，即 DL 是 ML 的子領域。<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/data-sci/union.png"
+                      alt="hello data-science" width="500" height="330"
+                ></li>
+</ul>
+</li>
+<li><p><strong>Machine Learning 和 Deep Learning的差異:</strong></p>
+<ul>
+<li>ML 需要較多的前期資料處理和特徵工程，這通常是人力主導的過程。特徵工程指的是從原始資料中提取有用的特徵，這需要專家知識，比如對數據去噪、去除極端值、選擇有意義的變數等。</li>
+<li>DL 會進行自動化特徵提取。深度神經網絡（尤其是多層神經網絡）可以自動從大量的數據中學習特徵，而不需要像 ML 那樣人工提取特徵。儘管如此，DL 並不是完全不需要資料前處理。儘管 DL 模型能夠在未經過深入手工處理的原始資料上運作，通常還是需要一些基本的數據處理，比如正規化、標準化等，以提升訓練效果。<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/data-sci/MLandDL.png"
+                      alt="hello data-science" width="500" height="313"
+                ></li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>data-science</category>
+      </categories>
+      <tags>
+        <tag>data-science</tag>
+        <tag>python</tag>
       </tags>
   </entry>
 </search>
